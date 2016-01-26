@@ -1,0 +1,40 @@
+h1 {
+	font-size: 35px;
+	text-align: center;
+	font-weight: 700;
+	font-family: "Arial, sans-serif;
+}
+h4, h5, {
+	font-family: Arial, sans-serif;;
+	text-align: left;
+	font-weight: 500;
+	font-size: 25px;
+}
+header {
+	color: black;
+}
+body {
+	background-color: grey;
+	margin: 4em;
+}
+footer {
+	text-align: right;
+}
+h3 {
+	font-family: Arial, sans-serif;
+ 	text-align: left;
+ 	font-weight: 700;
+	font-size: 20px;
+ }
+ p {
+		font-family:  Arial, sans-serif;;
+		text-align: left;
+		font-weight: 500;
+		font-size: 20px;
+ 	}
+h2 {
+	font-family:  Arial, sans-serif;;
+	text-align: left;
+	font-weight: 700;
+	font-size: 30px;
+}
